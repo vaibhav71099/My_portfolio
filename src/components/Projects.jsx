@@ -104,9 +104,9 @@ const projects = [
 
     tech: "React.js • Tailwind CSS",
 
-    github: "https://github.com/vaibhav71099",
+    github: "https://github.com/vaibhav71099/My_portfolio",
 
-    live: "https://your-portfolio-link.vercel.app",
+    live: "https://my-portfolio-psi-amber-87.vercel.app/",
   },
 ];
 
