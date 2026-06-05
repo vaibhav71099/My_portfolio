@@ -1,5 +1,4 @@
 import ProfilePhoto from "./ProfilePhoto";
-import SystemMonitor from "./SystemMonitor";
 
 const highlights = [
   "Secure REST APIs",
@@ -78,8 +77,6 @@ const About = () => {
               </div>
 
             </div>
-
-            <SystemMonitor />
 
           </div>
 
