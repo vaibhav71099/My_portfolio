@@ -97,8 +97,8 @@ const Hero = () => {
 
             <div className="d-flex justify-content-center justify-content-lg-start gap-3 mb-4 flex-wrap animate-fade-up delay-300">
               <a
-                href="/resume/VaibhavSuryawanshi_javaDeveloper.pdf"
-                download="VaibhavSuryawanshi_javaDeveloper.pdf"
+                href="/resume/VaibhavSuryavanshi_javaDeveloper.pdf"
+                download="VaibhavSuryavanshi_javaDeveloper.pdf"
                 className="interactive-lift btn btn-primary px-4 py-3"
               >
                 Download Resume
